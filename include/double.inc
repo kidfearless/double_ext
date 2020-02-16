@@ -30,8 +30,8 @@ methodmap Double < Handle
 	public native void AddRef(Double right);
 	public static native Double Add(Double left, Double right);
 
-	public native void SubstractRef(Double right);
-	public static native Double Substract(Double left, Double right);
+	public native void SubtractRef(Double right);
+	public static native Double Subtract(Double left, Double right);
 	
 	public native void MultiplyRef(Double right);
 	public static native Double Multiply(Double left, Double right);
